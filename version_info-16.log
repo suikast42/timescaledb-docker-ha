@@ -1,0 +1,9 @@
+postgis.version=3.4.2
+timescaledb_toolkit.version=1.18.0
+timescaledb.version=2.14.2
+postgresql.version=16.2
+patroni.version=3.2.2
+pgBackRest.version=2.51
+timescaledb.available_versions=2.12.2,2.13.0,2.13.1,2.14.0,2.14.1,2.14.2
+timescaledb_toolkit.available_versions=1.18.0
+postgresql.available_versions=16.2
